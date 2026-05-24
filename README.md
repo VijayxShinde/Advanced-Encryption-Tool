@@ -1,7 +1,5 @@
 # Advanced-Encryption-Tool
 
-Task-4
-
 **COMPANY**: CODETECH IT SOLUTIONS
 
 **NAME**: VIJAY SHINDE
@@ -11,8 +9,6 @@ Task-4
 **DOMAIN**: Cyber Security & Ethical Hacking
 
 **BATCH DUARATION**: December 25th, 2024 to January 25th, 2025
-
-**MENTOR NAME**: NEELA SANTOSH KUMAR
 
 **DESCRIPTION OF TASK**:
 
